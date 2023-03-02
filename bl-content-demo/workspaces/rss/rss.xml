@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="http://localhost:666/bludit/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>RESTO CMS</title>
+    <link>http://localhost:666/bludit/</link>
+    <description>Congratulations you have successfully installed your resto cms axcora bludit</description>
+    <lastBuildDate>Thu, 23 Feb 2023 12:38:36 +0700</lastBuildDate>
+    <item>
+      <title>Super Burger</title>
+      <link>http://localhost:666/bludit/super-burger</link>
+      <image>http://localhost:666/bludit/bl-content/uploads/pages/df4b75c95b2db212bcde3149b4845b40/burger4.jpg</image>
+      <description>&lt;p&gt;Lorep ipsum dolor siamet amet jabang bayi lanang wedok Lorep ipsum dolor siamet amet jabang bayi lanang wedok Lorep ipsum dolor siamet amet jabang bayi lanang wedok&lt;/p&gt;</description>
+      <pubDate>Thu, 23 Feb 2023 12:07:26 +0700</pubDate>
+      <guid isPermaLink="false">df4b75c95b2db212bcde3149b4845b40</guid>
+    </item>
+    <item>
+      <title>Triple Burger</title>
+      <link>http://localhost:666/bludit/triple-burger</link>
+      <image>http://localhost:666/bludit/bl-content/uploads/pages/eb1347ddb0093c41c9b77d83f72041a0/burger3.jpg</image>
+      <description>&lt;p&gt;Lorep ipsum dolor siamet amet jabang bayi lanang wedok Lorep ipsum dolor siamet amet jabang bayi lanang wedok Lorep ipsum dolor siamet amet jabang bayi lanang wedok&lt;/p&gt;</description>
+      <pubDate>Thu, 23 Feb 2023 12:05:28 +0700</pubDate>
+      <guid isPermaLink="false">eb1347ddb0093c41c9b77d83f72041a0</guid>
+    </item>
+    <item>
+      <title>Order</title>
+      <link>http://localhost:666/bludit/contact</link>
+      <image/>
+      <description>&lt;p&gt;Order&lt;/p&gt;</description>
+      <pubDate>Thu, 23 Feb 2023 11:45:43 +0700</pubDate>
+      <guid isPermaLink="false">9dffad7a982b2bf07667dabd62ce1695</guid>
+    </item>
+    <item>
+      <title>Double Burger</title>
+      <link>http://localhost:666/bludit/create-your-own-content</link>
+      <image>http://localhost:666/bludit/bl-content/uploads/pages/7beb6d162865a35b7d9c37c2f640a0a9/burger1.jpg</image>
+      <description>&lt;p&gt;Singgle Burger&lt;/p&gt;
+&lt;p&gt;Lorep ipsum dolor siamet amet jabang bayi lanang wedok Lorep ipsum dolor siamet amet jabang bayi lanang wedok Lorep ipsum dolor siamet amet jabang bayi lanang wedok Lorep ipsum dolor siamet amet jabang bayi lanang wedok Lorep ipsum dolor siamet amet jabang bayi lanang wedok Lorep ipsum dolor siamet amet jabang bayi lanang wedok Lorep ipsum dolor siamet amet jabang bayi lanang wedok&lt;/p&gt;</description>
+      <pubDate>Thu, 23 Feb 2023 10:48:45 +0700</pubDate>
+      <guid isPermaLink="false">7beb6d162865a35b7d9c37c2f640a0a9</guid>
+    </item>
+    <item>
+      <title>Single Burger</title>
+      <link>http://localhost:666/bludit/set-up-your-new-site</link>
+      <image>http://localhost:666/bludit/bl-content/uploads/pages/eed16b02913e824e1321a0280822d750/burger2.jpg</image>
+      <description>&lt;p&gt;Lorep ipsum dolor siamet amet jabang bayi lanang wedok Lorep ipsum dolor siamet amet jabang bayi lanang wedok Lorep ipsum dolor siamet amet jabang bayi lanang wedok&lt;/p&gt;</description>
+      <pubDate>Thu, 23 Feb 2023 10:47:45 +0700</pubDate>
+      <guid isPermaLink="false">eed16b02913e824e1321a0280822d750</guid>
+    </item>
+  </channel>
+</rss>

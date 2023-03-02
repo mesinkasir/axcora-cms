@@ -1,0 +1,2 @@
+<?php defined('BLUDIT') or die('Bludit CMS.'); ?>
+{"blog":{"name":"Blog","template":"","description":"","list":["contact"]},"drink":{"name":"Drink","template":"","description":"","list":[]},"food":{"name":"Food","template":"","description":"Food","list":[]},"menu":{"name":"Menu","template":"","description":"","list":["super-burger","triple-burger","create-your-own-content","set-up-your-new-site"]}}

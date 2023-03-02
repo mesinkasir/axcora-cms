@@ -1,0 +1,8 @@
+{
+	"plugin-data":
+	{
+		"name": "Bluger Categories",
+		"description": "Categories plugin for bluger"
+	},
+	"hide-categories-without-content": "Hide Categories without content"
+}

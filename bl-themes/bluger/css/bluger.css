@@ -1,0 +1,37 @@
+body {
+background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOV4UAcFk3ZnE-AAlZpkyDbY5iHxiEWhK_4XsdWuM3mP-9LY6ml6qrLzqU6Xqe-qCCawATH1A-PiVAvny8V98PSs6y5lXzqzSYmwr4Cr572fn3u1htzdAfMpNhGfN0TCmOfEF079Aaq5cMb3HDM7iDI4q1vjiinLUEd7C6TZYEu3efWzKLrzDVJaf6dw/s1600/bg.webp');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center; 
+background-size: cover;
+  margin: auto;
+  max-width: 80ch;
+background-color: black;
+color: white;
+}
+.black {
+background-color: black;
+color: white;}
+a:link,
+a:visited,
+a:hover {
+color:white;
+text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+strong,
+b {
+  color: white;
+}
+tag {
+font-size: 10px;
+}
+img {
+border-radius: 0px;
+}
+
