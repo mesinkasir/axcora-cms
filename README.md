@@ -8,11 +8,11 @@ Flatfile cms no database super fast and secure include backend admin.
 
 Home page
 
-![Free download restaurant cms](bluger/webp)
+![Free download restaurant cms](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_qzFCMMEn46EyPm_fWAEfMStbLnIT6aTL8hqCBhDad7J7hnjoi_UNDCXiEr0c0Ubce5W7oiGPXm53HXZr0BRmBkWtqZt5RwiWH3XH1wbfObojR3BbLYOqO11OrZRELdwSQBlE5ochPm3TTEuferZjMG3z6rUkTYyrPAph3Q3QvQWLUOjUZ792JpJhQQ/s1349/bluger-resto-website-freedownload.webp)
 
 Menu Detail Page
 
-![Free download restaurant cms](bluggers/webp)
+![Free download restaurant cms](bluggers.webp)
 
 --------
 
