@@ -4,7 +4,7 @@
 
 Documentation & How to install : [https://www.hockeycomputindo.com/2023/03/built-your-own-website-with-flatfile.html](https://www.hockeycomputindo.com/2023/03/built-your-own-website-with-flatfile.html)
 
-Free and open source code art worker and photogrpaher website.
+Free and open source code art worker and photographer website.
 
 Flatfile cms no database super fast and secure include backend admin.
 
