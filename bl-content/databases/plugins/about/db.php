@@ -1,6 +1,0 @@
-<?php defined('BLUDIT') or die('Bludit CMS.'); ?>
-{
-    "position": 1,
-    "label": "About",
-    "text": "This project is a free and open source code flatfile astronot cms present by axcora technology bludit for built fast website include SEO injection.\r\nIf you want to build new and modern site you can hire our team.\r\nhttps:\/\/www.fiverr.com\/creativitas\/design-your-website-with-phyton-django\r\n\r\nGET START\r\nUpload on source code project on your host , visit your web url , select language , input your password, and install it !!\r\nVisit on \/admin on your url , then login using your username and password.\r\nthen you can visit on your backend admin area for work with astronot flatfile cms.\r\n\r\nCONFIGURATION WEBSITE\r\nNow you need to configure your site\r\nlogin on backend admin panel, then visit on SETTINGS - general - and input your title description and change all with you own, then save it.\r\n\r\nSEO & ACTIVATED PLUGINS FOR FRESH INSTALLATION\r\nNow you can visit on SETTINGS - plugins - need to be activated for optimation your SEO :\r\nSitemap, RSS Open Graph , Twitter Cards \r\n\r\nFor edit this area you can visit on plugins and click setting on about.\r\n\r\n\r\n\r\n"
-}
