@@ -1,2 +1,0 @@
-<?php defined('BLUDIT') or die('Bludit CMS.'); ?>
-{"admin":{"nickname":"Admin","firstName":"Administrator","lastName":"Astronot","role":"admin","password":"0943be106c51036da658990c7415f38c4d6e5479","salt":"640c7e44eb594","email":"axcora@gmail.com","registered":"2023-03-11 20:12:36","tokenRemember":"","tokenAuth":"0bdd3f5888f01a1c62cce50038e1266e","tokenAuthTTL":"2009-03-15 14:00","twitter":"https:\/\/www.axcora.com","facebook":"https:\/\/axcora.com","instagram":"","codepen":"","linkedin":"","xing":"","github":"","gitlab":""}}
