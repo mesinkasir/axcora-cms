@@ -1,0 +1,8 @@
+{
+	"plugin-data":
+	{
+		"name": "The Bandit Categories",
+		"description": "Categories plugin for the bandit"
+	},
+	"hide-categories-without-content": "Hide Categories without content"
+}

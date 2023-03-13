@@ -1,0 +1,10 @@
+{
+	"plugin-data":
+	{
+		"name": "The Bandit Navigation",
+		"description": "Navigation menu for the bandit template."
+	},
+	"home-link": "Home link",
+	"show-the-home-link-on-the-sidebar": "Show the home link on the sidebar.",
+	"amount-of-items": "Amount of items"
+}
